@@ -3,7 +3,7 @@
 
 Matlab code for a very efficient and accurate approximation of non-linear dimensionality reduction "Classical Scaling" (also known as Multidimensional Scaling (MDS) or Isomap).
 
-<img align="right" img src="Images/Viz_pic.png" width="200px">
+<img align="right" img src="Images/Viz_pic.png" width="400px">
 
 ## Setup & Usage
 The project was tested on OSX with Matlab R2019a, and should work on windows 64 as well, to run it: 
