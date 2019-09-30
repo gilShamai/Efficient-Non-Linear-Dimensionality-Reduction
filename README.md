@@ -2,6 +2,7 @@
 [[Paper 1]](https://ieeexplore.ieee.org/abstract/document/8509134) [[Paper 2]](https://docs.wixstatic.com/ugd/28cd82_91f41197b793480ab25b1f97f10f818a.pdf)
 
 Matlab code for a very efficient and accurate approximation of non-linear dimensionality reduction "Classical Scaling" (also known as Multidimensional Scaling (MDS) or Isomap).
+The code works on 3D triangle meshes, as well as graphs of point clouds of any dimension. The graph should be created by connecting near points.
 
 <img align="right" img src="Images/Viz_pic.png" width="400px">
 
